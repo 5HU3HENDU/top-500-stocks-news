@@ -29,3 +29,5 @@ em.pos{color:var(--teal);font-style:normal;font-weight:600;margin-left:8px}em.ne
 .dhan svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8}
 .hl{display:block;padding:10px 0;border-bottom:1px solid var(--hair);text-decoration:none;color:inherit}
 .hl .t{display:block;font-size:14px;line-height:1.35;margin-top:2px}
+
+.rk.nw{color:var(--ink);font-weight:700;font-size:11px}
