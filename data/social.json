@@ -1,0 +1,12 @@
+{
+ "posts": [],
+ "note": "X blocks anonymous reading, so coverage is empty rather than quiet.",
+ "method": "X (Twitter) is walled: x.com, nitter and xcancel pages return nothing without login or are blocked, and search engines index almost no 2026 posts. The only public route that worked was X's public embed timeline, and only for the NSE India and Business Standard handles (20 recent posts each, 18 to 20 Oct). Feeds for other news handles returned old posts only (2018 to 2025), and company handles returned nothing. We did not log in or scrape.",
+ "tried": [
+  "x.com profile pages",
+  "xcancel.com",
+  "nitter.net",
+  "nitter.poast.org",
+  "X public embed timeline for @NSEIndia, @bsindia (worked, recent), 26 other news and company handles (stale or empty)"
+ ]
+}
