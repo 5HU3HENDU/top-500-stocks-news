@@ -1,1 +1,13 @@
-{"asof": "19 Oct 2026", "window": "20 Jul to 19 Oct 2026", "days": 64, "newsCut": "20 Oct 2026, 02:40 IST", "longStart": "2026-04-20", "shortStart": "2026-09-19", "next": "24 Oct 2026", "threeStart": "2026-07-20", "headFrom": "20 Apr 2026", "newCount": 50, "newNote": "The 50 newest NSE listings by listing date in NSE's EQUITY_L file (downloaded 20 Oct 2026), excluding 24 already in the top 500 (STEAMHOUSE, RENTOMOJO, MPIMANIPAL, LCCPROJECT, KARAMTARA, ARCIL, PRASOLCHEM, KANOHAR, GLASSWALL, PRANAV, DEEPA, ESDS, LUMINO, SYMBIOTEC, SKYWAYS, AUGMONT, TEMPSENS, GAJA, SUNSHINE, SHANKESH, LALITHAA, SHIPROCKET, BLEL, MILKYMIST). Dropped as not genuinely new: 142 entries stamped 17 Aug 2026 and 103 stamped 20 Apr 2026 (bulk dates in the file), and 5 that were already trading on NSE before their listed date (LANCER, JYOTIRES, UDAYJEW, VTMLTD, FERMENTA). Main-board series EQ, BE and BZ only; SME-platform names are not included."}
+{
+ "asof": "23 Oct 2026",
+ "window": "20 Jul to 23 Oct 2026",
+ "days": 67,
+ "newsCut": "24 Oct 2026, 09:15 IST",
+ "longStart": "2026-04-24",
+ "shortStart": "2026-09-24",
+ "next": "31 Oct 2026",
+ "threeStart": "2026-07-20",
+ "headFrom": "24 Apr 2026",
+ "newCount": 50,
+ "newNote": "The 50 newest NSE listings by listing date in NSE's EQUITY_L file (downloaded 24 Oct 2026), excluding 3 already in the top 500 (MONEYVIEW, HEROMOTORS, SSRETAIL). Dropped as not genuinely new: 142 entries stamped 17 Aug 2026 and 103 stamped 20 Apr 2026 (bulk dates in the file), 9 that were already trading before their listed date, mostly SME-to-mainboard migrations (LANCER, JYOTIRES, UDAYJEW, VTMLTD, FERMENTA, PARIN, DOLLEX, SWARAJ, ANNAPURNA), and 1 rights entitlement (OLAELEC-RE). Main-board series EQ, BE and BZ only; SME-platform names are not included."
+}
