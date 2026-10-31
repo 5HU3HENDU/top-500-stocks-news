@@ -1,13 +1,13 @@
 {
- "asof": "23 Oct 2026",
- "window": "20 Jul to 23 Oct 2026",
+ "asof": "30 Oct 2026",
+ "window": "27 Jul to 30 Oct 2026",
  "days": 67,
- "newsCut": "24 Oct 2026, 09:15 IST",
- "longStart": "2026-04-24",
- "shortStart": "2026-09-24",
- "next": "31 Oct 2026",
- "threeStart": "2026-07-20",
- "headFrom": "24 Apr 2026",
+ "newsCut": "31 Oct 2026, 09:15 IST",
+ "longStart": "2026-04-30",
+ "shortStart": "2026-09-30",
+ "next": "7 Nov 2026",
+ "threeStart": "2026-07-27",
+ "headFrom": "30 Apr 2026",
  "newCount": 50,
- "newNote": "The 50 newest NSE listings by listing date in NSE's EQUITY_L file (downloaded 24 Oct 2026), excluding 3 already in the top 500 (MONEYVIEW, HEROMOTORS, SSRETAIL). Dropped as not genuinely new: 142 entries stamped 17 Aug 2026 and 103 stamped 20 Apr 2026 (bulk dates in the file), 9 that were already trading before their listed date, mostly SME-to-mainboard migrations (LANCER, JYOTIRES, UDAYJEW, VTMLTD, FERMENTA, PARIN, DOLLEX, SWARAJ, ANNAPURNA), and 1 rights entitlement (OLAELEC-RE). Main-board series EQ, BE and BZ only; SME-platform names are not included."
+ "newNote": "The 50 newest NSE listings by listing date in NSE's EQUITY_L file (downloaded 31 Oct 2026), excluding 37 already in the top 500 (AONESTEELS, MONEYVIEW, ARMEE, ELEVATE, VARMORA, HEROMOTORS, SSRETAIL, ARCIL, KARAMTARA, MPIMANIPAL, RENTOMOJO, STEAMHOUSE, GLASSWALL, KANOHAR, PRANAV, DEEPA, ESDS, LUMINO, SKYWAYS, SYMBIOTEC, AUGMONT, TEMPSENS, SHANKESH, SUNSHINE, LALITHAA, BLEL, SHIPROCKET, MILKYMIST, LEAPIND, TECHNOCRAF, JNPR, MVELECTRO, MANIPALHOS, INDOMIM, LCL, CMLL, SBIFUNDS). Dropped as not genuinely new: 142 entries stamped 17 Aug 2026 and 103 stamped 20 Apr 2026 (bulk dates in the file), 10 that were already trading before their listed date, mostly SME-to-mainboard migrations (ARHAM, LANCER, JYOTIRES, PARIN, UDAYJEW, VTMLTD, DOLLEX, SWARAJ, ANNAPURNA, FERMENTA), and 1 rights entitlement (SHIVAM-RE1). Main-board series EQ, BE and BZ only; SME-platform names are not included."
 }

@@ -861,9 +861,7 @@
   "title": "Peak power demand exceeds 250 GW through most of September",
   "summary": "GW through most of September - The Economic Times GW through most of September SECTIONS GW through most of September By Shilpa Samant , ET Bureau Last Updated: Oct 17, 2026, 12:16:00 AM IST Synopsis India's power sector planner recently said the country will r\u2026",
   "reason": "Recent operating or market event, so counted short-term positive.",
-  "stocks": [
-   "IEX"
-  ],
+  "stocks": [],
   "url": "https://economictimes.indiatimes.com/industry/energy/power/peak-power-demand-exceeds-250-gw-through-most-of-september/articleshow/135002501.cms",
   "src": "economictimes.indiatimes.com",
   "id": "s55"
@@ -1798,9 +1796,7 @@
   "title": "India's Savita Oil Technologies reports best-ever quarter - F&L Asia",
   "summary": "Savita Oil Technologies Ltd., the Mumbai, India-based lubricants and specialty oils maker reported higher earnings for the April-to-June quarter.",
   "reason": "Recent operating or market event, so counted short-term positive.",
-  "stocks": [
-   "SOTL"
-  ],
+  "stocks": [],
   "url": "https://www.fuelsandlubes.com/indias-savita-oil-technologies-reports-best-ever-quarter/",
   "src": "fuelsandlubes.com",
   "id": "s114"
@@ -5524,54 +5520,6 @@
   "id": "s350"
  },
  {
-  "cats": [
-   "epc"
-  ],
-  "bucket": "ln",
-  "date": "2026-04-24",
-  "title": "India EPC Sector Growth Slows to 4\u20135% in FY26 Amid Award Delays: India Ratings",
-  "summary": "India Ratings and Research (Ind-Ra) said the engineering, procurement and construction (EPC) sector ended FY26 weaker than expected due to lower award activity in 4QFY26, which has pushed revenue recovery into FY27.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [],
-  "url": "https://www.nbmcw.com/news/reports-insights/india-epc-sector-growth-slows-to-4-5-in-fy26-amid-award-delays-india-ratings.html",
-  "src": "nbmcw.com",
-  "id": "s351"
- },
- {
-  "cats": [
-   "solarmfg"
-  ],
-  "bucket": "ln",
-  "date": "2026-04-24",
-  "title": "Solar stocks fall up to 7% as US slaps antidumping duties on Indian imports",
-  "summary": "Shares of solar cell and panel manufacturers came under pressure in today's trade after the United States announced preliminary tariffs on solar imports from three countries, including India.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "WAAREEENER",
-   "PREMIERENE",
-   "VIKRAMSOLR"
-  ],
-  "url": "https://www.business-standard.com/markets/news/solar-stocks-fall-up-to-7-as-us-slaps-antidumping-duties-on-indian-imports-126042400607_1.html",
-  "src": "business-standard.com",
-  "id": "s352"
- },
- {
-  "cats": [
-   "t_rural"
-  ],
-  "bucket": "ln",
-  "date": "2026-04-24",
-  "title": "Below-Normal Monsoon May Hit Farm Output, Demand and Inflation",
-  "summary": "India faces a below-normal monsoon, compounded by El Ni\u00f1o and West Asia conflict, threatening rural demand, farm output, and inflation. Key sectors like FMCG and autos may see slower growth, though government buffers and resilience measures offer some relief.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "DABUR"
-  ],
-  "url": "https://www.forbesindia.com/article/news/deep-dive/can-rural-india-weather-a-weak-monsoon/2993450/1",
-  "src": "forbesindia.com",
-  "id": "s353"
- },
- {
   "id": "s360",
   "date": "2026-10-23",
   "bucket": "sn",
@@ -6034,5 +5982,228 @@
   ],
   "url": "https://www.autopunditz.com/post/festive-two-wheeler-vs-car-sales-2026-navratri",
   "src": "AutoPunditz"
+ },
+ {
+  "id": "s387",
+  "date": "2026-10-28",
+  "bucket": "sp",
+  "title": "Jio Platforms debuts at 21% premium, becomes India's second-most valued company",
+  "summary": "Jio Platforms listed at Rs 1,358, a 21% premium to its IPO price, valuing the company at about Rs 12.5 lakh crore, behind only parent Reliance Industries. The Rs 30,213-crore IPO, India's largest, was subscribed 22 times within 100 minutes of opening.",
+  "reason": "A record debut for the telecom-to-digital major lifts the sector's near-term sentiment and adds a large new listed player.",
+  "cats": [
+   "telco",
+   "internet",
+   "t_reliance",
+   "t_ipo"
+  ],
+  "stocks": [
+   "JPL",
+   "RELIANCE"
+  ],
+  "url": "https://www.thehindu.com/business/Industry/jio-platforms-debuts-at-21-premium-as-sensex-slides-valuation-tops-12-lakh-crore/article71635707.ece",
+  "src": "The Hindu"
+ },
+ {
+  "id": "s388",
+  "date": "2026-10-30",
+  "bucket": "sp",
+  "title": "Reliance Industries Q2: record profit of Rs 29,550 crore, revenue at all-time high",
+  "summary": "RIL's consolidated net profit rose 33.8% year on year to a record Rs 29,550 crore on revenue of Rs 3.6 lakh crore, with EBITDA at a record Rs 62,409 crore on refining and digital services gains. H1FY27 profit crossed Rs 50,000 crore for the first time.",
+  "reason": "A strongest-ever quarter across refining and consumer businesses is a near-term positive for the index heavyweight.",
+  "cats": [
+   "refin",
+   "telco",
+   "t_reliance"
+  ],
+  "stocks": [
+   "RELIANCE"
+  ],
+  "url": "https://www.cnbctv18.com/market/earnings/reliance-industries-q2-results-stronger-ever-quarter-revenue-surges-record-rs3-6-lakh-crore-20023655.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s389",
+  "date": "2026-10-26",
+  "bucket": "sp",
+  "title": "Paytm Q2: net profit jumps over 10-fold to Rs 226 crore",
+  "summary": "One 97 Communications reported Q2 net profit of Rs 226 crore with revenue up 29% year on year.",
+  "reason": "A sharp swing to profitability with strong revenue growth is a near-term positive for the payments company.",
+  "cats": [
+   "pay",
+   "t_newage"
+  ],
+  "stocks": [
+   "PAYTM"
+  ],
+  "url": "https://www.cnbctv18.com/market/stocks/paytm-q2-results-net-profit-jumps-over-10-fold-to-%e2%82%b9226-crore-revenue-surges-29-20019761.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s390",
+  "date": "2026-10-29",
+  "bucket": "sn",
+  "title": "IndiGo posts third straight quarterly loss of Rs 1,879 crore as fuel costs weigh",
+  "summary": "InterGlobe Aviation's Q2 net loss narrowed 27% year on year to Rs 1,879 crore on 26% higher revenue, but high fuel prices kept the airline in the red and it said fare increases are inevitable.",
+  "reason": "Persistent losses on elevated fuel costs are a near-term negative despite revenue growth.",
+  "cats": [
+   "airline",
+   "t_crude"
+  ],
+  "stocks": [
+   "INDIGO"
+  ],
+  "url": "https://www.cnbctv18.com/market/earnings/interglobe-aviation-indigo-q2-third-consecutive-quarterly-loss-revenue-20022507.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s391",
+  "date": "2026-10-28",
+  "bucket": "sp",
+  "title": "Bandhan Bank Q2 profit jumps over 5-fold to Rs 622 crore",
+  "summary": "Bandhan Bank's Q2 net profit rose more than five-fold year on year to Rs 622 crore with net interest income up 14.4%, as asset quality improved.",
+  "reason": "A sharp profit recovery on better asset quality is a near-term positive for the lender.",
+  "cats": [
+   "bank_pvt"
+  ],
+  "stocks": [
+   "BANDHANBNK"
+  ],
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bandhan-bank-q2-profit-jumps-5-6-times-as-asset-quality-improves/articleshow/135265654.cms",
+  "src": "Economic Times"
+ },
+ {
+  "id": "s392",
+  "date": "2026-10-29",
+  "bucket": "sp",
+  "title": "Coal India Q2 profit jumps 53%, declares Rs 10.25 dividend",
+  "summary": "Coal India's Q2 net profit rose 53% year on year, with H1 coal production at 321 MT against 329 MT a year ago while offtake rose 7.6%. Margins missed estimates.",
+  "reason": "Strong profit growth and a dividend are a near-term positive, partly offset by a margin miss.",
+  "cats": [
+   "coal",
+   "t_psu"
+  ],
+  "stocks": [
+   "COALINDIA"
+  ],
+  "url": "https://www.cnbctv18.com/market/earnings/coal-india-q2-results-profit-up-53-pc-revenue-margin-estimates-declares-rs-10-25-dividend-20022650.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s393",
+  "date": "2026-10-22",
+  "bucket": "sp",
+  "title": "HPCL swings to Rs 3,483 crore Q2 profit, beats estimates",
+  "summary": "Hindustan Petroleum reported a net profit of Rs 3,482.6 crore for the September quarter against a loss in the previous quarter, with EBITDA swinging by about Rs 24,681 crore on better refining margins.",
+  "reason": "A swing to profit on stronger refining margins is a near-term positive for the refiner.",
+  "cats": [
+   "refin",
+   "t_psu"
+  ],
+  "stocks": [
+   "HINDPETRO"
+  ],
+  "url": "https://www.cnbctv18.com/market/hpcl-swings-to-rs3483-crore-profit-in-q2-beats-estimates-on-operating-earnings-20017252.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s394",
+  "date": "2026-10-29",
+  "bucket": "sp",
+  "title": "Laurus Labs Q2 profit jumps 126% on CDMO surge",
+  "summary": "Laurus Labs reported Q2 net profit of Rs 441 crore, up 126% year on year, with margins beating estimates, and announced the acquisition of a Canadian firm to deepen its oligonucleotide business.",
+  "reason": "Strong CDMO-led profit growth and capacity expansion are near-term positives.",
+  "cats": [
+   "cdmo",
+   "pharma"
+  ],
+  "stocks": [
+   "LAURUSLABS"
+  ],
+  "url": "https://www.moneycontrol.com/news/business/earnings/laurus-labs-q2-results-net-profit-jumps-126-on-cdmo-surge-buys-canadian-firm-to-deepen-oligonucleotide-play-14063621.html",
+  "src": "Moneycontrol"
+ },
+ {
+  "id": "s395",
+  "date": "2026-10-30",
+  "bucket": "sn",
+  "title": "Oil settles at six-month highs, posts fourth monthly gain, on Hormuz attack and Iran escalation fears",
+  "summary": "Crude jumped over 2% to its highest since end-April after a tanker attack in the Strait of Hormuz, with traders bracing for escalation in the Iran war after the US midterm elections.",
+  "reason": "Sustained high crude raises input and fuel costs for refiners, paints, adhesives and airlines in the near term.",
+  "cats": [
+   "t_crude"
+  ],
+  "stocks": [
+   "IOC",
+   "BPCL",
+   "HINDPETRO",
+   "ASIANPAINT",
+   "PIDILITIND",
+   "INDIGO"
+  ],
+  "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
+  "src": "CNBC"
+ },
+ {
+  "id": "s396",
+  "date": "2026-10-30",
+  "bucket": "sp",
+  "title": "High crude lifts realisation outlook for upstream oil producers",
+  "summary": "With crude settling at six-month highs and posting a fourth monthly gain on Middle East supply risks, upstream producers stand to realise higher prices for their output.",
+  "reason": "Higher crude realisations directly lift upstream earnings in the near term.",
+  "cats": [
+   "oilup",
+   "t_crude"
+  ],
+  "stocks": [
+   "ONGC",
+   "OIL"
+  ],
+  "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html",
+  "src": "CNBC"
+ },
+ {
+  "id": "s397",
+  "date": "2026-10-30",
+  "bucket": "sp",
+  "title": "FIIs snap nine-week selling streak; Nifty reclaims 23,000",
+  "summary": "Foreign investors turned net buyers with about Rs 3,599 crore of inflows, ending a nine-week selling streak, and the Nifty closed back above 23,000 on the last trading day of October, led by IT and pharma.",
+  "reason": "A turn in foreign flows after months of selling is a near-term positive for the broader market.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.moneycontrol.com/news/photos/business/markets/nifty-reclaims-23-000-as-fiis-turn-net-buyers-rupee-ends-unchanged-14064896.html",
+  "src": "Moneycontrol"
+ },
+ {
+  "id": "s398",
+  "date": "2026-10-30",
+  "bucket": "sn",
+  "title": "Mid and small caps bleed even as large caps lift Nifty above 23,000",
+  "summary": "Broader-market indices fell sharply through the week even as frontline indices rose, with midcaps leading declines on October's last trading day.",
+  "reason": "Continued weakness in mid and small caps is a near-term negative for sentiment beyond the large caps.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.thehindubusinessline.com/markets/nifty-reclaims-23000-to-end-october-on-a-positive-note-it-and-pharma-lead-midcaps-bleed/article71644850.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s399",
+  "date": "2026-10-29",
+  "bucket": "sn",
+  "title": "Pidilite Q2 misses estimates; gross margin contracts 640 bps",
+  "summary": "Pidilite Industries' Q2 earnings and operating profit missed estimates, with gross margin contracting about 640 basis points on raw material inflation; the stock fell over 3%.",
+  "reason": "A margin squeeze on input costs is a near-term negative for the adhesives maker.",
+  "cats": [
+   "spchem",
+   "t_crude"
+  ],
+  "stocks": [
+   "PIDILITIND"
+  ],
+  "url": "https://www.cnbctv18.com/market/pidilite-industries-share-price-q2-earnings-miss-gross-margin-contracts-640-bps-revenue-profit-cost-management-comments-20021953.htm",
+  "src": "CNBC-TV18"
  }
 ]
