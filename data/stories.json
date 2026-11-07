@@ -1539,9 +1539,7 @@
   "stocks": [
    "SHIPROCKET",
    "SBIFUNDS",
-   "MANIPALHOS",
-   "LCL",
-   "LASERPOWER"
+   "MANIPALHOS"
   ],
   "url": "https://www.livemint.com/market/ipo/ipo-lock-in-expiry-24-bn-worth-of-shares-set-to-unlock-on-d-street-from-oct-2026-to-jan-2027-what-investors-must-know-11791802055579.html",
   "src": "livemint.com",
@@ -1916,8 +1914,7 @@
   "reason": "Recent operating or market event, so counted short-term positive.",
   "stocks": [
    "SRF",
-   "DEEPAKNTR",
-   "AARTIIND"
+   "DEEPAKNTR"
   ],
   "url": "https://www.cnbctv18.com/market/chemical-stocks-may-see-strong-q2-on-supply-disruptions-and-higher-realisations-jm-financial-20007636.htm",
   "src": "cnbctv18.com",
@@ -5198,8 +5195,7 @@
   "reason": "Structural or policy risk, so counted long-term negative.",
   "stocks": [
    "JUBLFOOD",
-   "RBA",
-   "DEVYANI"
+   "RBA"
   ],
   "url": "https://www.financialexpress.com/business/news/qsr-chains-turn-cautious-as-inflation-fears-cloud-fy27-outlook/4250899/",
   "src": "financialexpress.com",
@@ -5422,102 +5418,6 @@
   "url": "https://www.thehindubusinessline.com/companies/bajaj-auto-warns-motorcycle-growth-could-slow-to-79-in-fy27-as-pulsar-exports-and-evs-power-growth/article70947985.ece",
   "src": "thehindubusinessline.com",
   "id": "s344"
- },
- {
-  "cats": [
-   "exch"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-05",
-  "title": "STT hike impacts equity derivatives trading, BSE attracts fresh trading interest",
-  "summary": "BSE\u2019s share in notional F&O turnover rose to 55 per cent in April from 44 per cent in March | Photo Credit: FRANCIS MASCARENHAS The hike in securities transaction tax has impacted the equity derivatives trading volume on NSE even as BSE mitigated the impact by\u2026",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "BSE"
-  ],
-  "url": "https://www.thehindubusinessline.com/markets/stt-hike-impacts-equity-derivatives-trading-bse-cuts-charges-to-enhance-liquidity/article70941602.ece",
-  "src": "thehindubusinessline.com",
-  "id": "s345"
- },
- {
-  "cats": [
-   "t_reliance"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-05",
-  "title": "Reliance Jio IPO Faces Bribery Probe, Governance Fears Rise",
-  "summary": "Overview Reliance Industries' planned Jio IPO is facing heightened scrutiny after senior executive Bharat Mathur was arrested in a bribery probe.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "RELIANCE"
-  ],
-  "url": "https://www.whalesbook.com/news/English/lawcourt/Reliance-Jio-IPO-Faces-Bribery-Probe-Governance-Fears-Rise/69f99aaed87e3288bea8a41b",
-  "src": "whalesbook.com",
-  "id": "s346"
- },
- {
-  "cats": [
-   "diag"
-  ],
-  "bucket": "lp",
-  "date": "2026-05-04",
-  "title": "Dr Lal PathLabs sees 13-15% revenue growth in FY27, no price hikes for now",
-  "summary": "CEO Shankha Banerjee said while there are no plans to raise prices in the near term, the company keeps a close watch on cost pressures and external factors. Growth is expected to come from a steady rise in patient and sample volumes.",
-  "reason": "Structural or policy development, so counted long-term positive.",
-  "stocks": [],
-  "url": "https://www.cnbctv18.com/market/earnings/dr-lal-pathlabs-sees-13-15-revenue-growth-in-fy27-no-price-hikes-for-now-19897913.htm",
-  "src": "cnbctv18.com",
-  "id": "s347"
- },
- {
-  "cats": [
-   "life"
-  ],
-  "bucket": "lp",
-  "date": "2026-05-01",
-  "title": "GST tailwind boosts life insurance premiums, fails to lift policy volumes",
-  "summary": "Removal of GST on individual policies lifted life insurers' premium growth in FY26, but policy volumes remained subdued, highlighting rising ticket sizes rather than wider customer penetration ...",
-  "reason": "Structural or policy development, so counted long-term positive.",
-  "stocks": [
-   "HDFCLIFE",
-   "SBILIFE",
-   "ICICILIFE"
-  ],
-  "url": "https://www.business-standard.com/finance/insurance/gst-tailwind-boosts-life-insurance-premiums-fails-to-lift-policy-volumes-126050100597_1.html",
-  "src": "business-standard.com",
-  "id": "s348"
- },
- {
-  "cats": [
-   "exch"
-  ],
-  "bucket": "ln",
-  "date": "2026-04-30",
-  "title": "BSE, MCX shine with triple digit returns; analysts warn of F&O growth risks",
-  "summary": "The Indian capital market infrastructure has been the standout story of the last few years, but the script is beginning to flip.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "BSE"
-  ],
-  "url": "https://www.business-standard.com/markets/news/bse-mcx-shine-with-triple-digit-returns-analysts-warn-of-f-o-growth-risks-126043000090_1.html",
-  "src": "business-standard.com",
-  "id": "s349"
- },
- {
-  "cats": [
-   "ports"
-  ],
-  "bucket": "ln",
-  "date": "2026-04-30",
-  "title": "India's Adani Ports sees slower core earnings growth for fiscal 2027",
-  "summary": "A general view of a container terminal is seen at Mundra Port in the western Indian state of Gujarat April 1, 2014.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "ADANIPORTS"
-  ],
-  "url": "https://www.reuters.com/world/india/indias-adani-ports-quarterly-profit-rises-cargo-volumes-grow-2026-04-30/",
-  "src": "reuters.com",
-  "id": "s350"
  },
  {
   "id": "s360",
@@ -6205,5 +6105,277 @@
   ],
   "url": "https://www.cnbctv18.com/market/pidilite-industries-share-price-q2-earnings-miss-gross-margin-contracts-640-bps-revenue-profit-cost-management-comments-20021953.htm",
   "src": "CNBC-TV18"
+ },
+ {
+  "id": "s400",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Best weekly rally since Feb 2021: Sensex, Nifty surge about 9%; Rs 28.7 lakh crore added",
+  "summary": "Benchmark indices posted their best week since February 2021, adding about Rs 28.7 lakh crore of market value in the run-up to Diwali, with Muhurat trading in focus.",
+  "reason": "A broad, record-setting weekly advance is a near-term positive for market sentiment.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.zeebiz.com/market-news/news-weekly-market-wrap-sensex-nifty-surge-nearly-9-best-weekly-rally-since-feb-2021-rs-2870-lakh-crore-added-muhurat-trading-in-focus-405246",
+  "src": "Zee Business"
+ },
+ {
+  "id": "s401",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "FIIs pump nearly Rs 50,000 crore into Indian equities in six sessions; Nifty past 25,000",
+  "summary": "Foreign investors bought close to Rs 50,000 crore of Indian stocks in six days (about $5 billion), the strongest weekly FII buying on record, lifting the Nifty past 25,000.",
+  "reason": "A record turn in foreign flows is a near-term positive for the broader market.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.news18.com/business/markets/weekly-round-up-fpis-pump-nearly-rs-50000-crore-into-indian-equities-in-a-week-10415914.html",
+  "src": "News18"
+ },
+ {
+  "id": "s402",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Brent posts worst week since April 2020 as Iran detente hopes build",
+  "summary": "Brent crude recorded its biggest weekly drop since 2020, sliding to a two-month low as post-midterms hopes for an Iran detente eased supply fears, a reversal of the prior week's six-month high.",
+  "reason": "Cheaper crude cuts input costs for refiners, airlines and paint makers, a near-term positive.",
+  "cats": [
+   "refin",
+   "airline",
+   "t_crude"
+  ],
+  "stocks": [
+   "IOC",
+   "BPCL",
+   "HINDPETRO",
+   "INDIGO"
+  ],
+  "url": "https://finance.yahoo.com/energy/articles/oil-rises-fresh-tanker-attacks-012523801.html",
+  "src": "Yahoo Finance"
+ },
+ {
+  "id": "s403",
+  "date": "2026-11-06",
+  "bucket": "sn",
+  "title": "Brent's worst week since 2020 squeezes upstream realisations",
+  "summary": "The same sharp weekly fall in Brent to a two-month low pressures realisations for upstream oil producers.",
+  "reason": "Lower crude prices are a near-term negative for oil exploration companies.",
+  "cats": [
+   "oilup",
+   "t_crude"
+  ],
+  "stocks": [
+   "ONGC",
+   "OIL"
+  ],
+  "url": "https://live.euronext.com/en/financial-news/brent-oil-price-benchmark-set-biggest-weekly-drop-2020",
+  "src": "Euronext"
+ },
+ {
+  "id": "s404",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Gold climbs above $4,100 an ounce, up nearly 6% in the week; silver soars",
+  "summary": "Gold rose above $4,100 an ounce with a near 6% weekly gain and silver jumped about Rs 11,200/kg on a soft dollar and falling oil, with MCX trading in focus on Dhanteras.",
+  "reason": "Rising gold prices support gold-loan financiers' collateral values and loan demand, a near-term positive.",
+  "cats": [
+   "t_gold",
+   "goldfin"
+  ],
+  "stocks": [
+   "MUTHOOTFIN"
+  ],
+  "url": "https://www.etnownews.com/markets/gold-price-today-november-6-bullion-climbs-above-4100-gains-nearly-6-this-week-mcx-trading-in-focus-on-dhanteras-article-156472179",
+  "src": "ET Now"
+ },
+ {
+  "id": "s405",
+  "date": "2026-11-01",
+  "bucket": "sp",
+  "title": "October car wholesales cross 5 lakh for the first time on festive dispatches",
+  "summary": "Monthly passenger-vehicle wholesales crossed 5 lakh units for the first time in October 2026, driven by festive dispatches, with Tata Motors retaining the second spot.",
+  "reason": "Record festive dispatches are a near-term positive for carmakers' volumes.",
+  "cats": [
+   "pv"
+  ],
+  "stocks": [
+   "MARUTI",
+   "TMPV",
+   "M&M",
+   "HYUNDAI"
+  ],
+  "url": "https://www.autocarindia.com/car-news/october-2026-car-sales-tata-retains-second-place-441189",
+  "src": "Autocar India"
+ },
+ {
+  "id": "s406",
+  "date": "2026-11-06",
+  "bucket": "sn",
+  "title": "October PV retail sales fell 14.2%, FADA data shows",
+  "summary": "Passenger-vehicle retail sales fell 14.23% year-on-year to 5.08 lakh units in October, according to dealers' body FADA, in contrast to record factory dispatches.",
+  "reason": "Weak retail demand behind record dispatches risks inventory build-up, a near-term negative for carmakers.",
+  "cats": [
+   "pv"
+  ],
+  "stocks": [
+   "MARUTI",
+   "TMPV",
+   "HYUNDAI"
+  ],
+  "url": "https://www.autocarpro.in/analysis-sales/passenger-vehicle-retail-sales-fall-1423-percent-to-508-lakh-in-october-fada-135776",
+  "src": "Autocar Professional"
+ },
+ {
+  "id": "s407",
+  "date": "2026-11-04",
+  "bucket": "lp",
+  "title": "Banks' Q2 net profit tops Rs 1.16 trillion, up 20% on strong earnings",
+  "summary": "Aggregate net profit of listed banks crossed Rs 1.16 trillion in Q2 FY27, rising about 20% year-on-year on strong earnings across public and private lenders.",
+  "reason": "Broad-based, double-digit profit growth strengthens the sector's long-term earnings base.",
+  "cats": [
+   "bank_psu",
+   "bank_pvt",
+   "sfb"
+  ],
+  "stocks": [],
+  "url": "https://www.business-standard.com/industry/banking/banks-q2-net-profit-tops-1-16-trillion-rises-20-on-strong-earnings-126110401604_1.html",
+  "src": "Business Standard"
+ },
+ {
+  "id": "s408",
+  "date": "2026-11-03",
+  "bucket": "sp",
+  "title": "SBI Q2 profit rises 14.3% to Rs 23,038 crore; eyes NIM above 3%",
+  "summary": "State Bank of India's Q2 net profit rose 14.3% year-on-year to Rs 23,038 crore, and the lender guided to keeping net interest margin above 3%.",
+  "reason": "Double-digit profit growth with stable margin guidance is a near-term positive for the country's largest lender.",
+  "cats": [
+   "bank_psu",
+   "t_psu"
+  ],
+  "stocks": [
+   "SBIN"
+  ],
+  "url": "https://www.thehindu.com/business/sbi-q2-profit-rises-143-to-23038-crore-eyes-nim-above-3/article71660789.ece",
+  "src": "The Hindu"
+ },
+ {
+  "id": "s409",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Hindalco posts record quarterly profit in Q2",
+  "summary": "Hindalco Industries reported a record quarterly profit in Q2 FY27, leading Friday's earnings wrap.",
+  "reason": "Record profitability is a near-term positive for the aluminium and copper producer.",
+  "cats": [
+   "nonferrous",
+   "t_commodity"
+  ],
+  "stocks": [
+   "HINDALCO"
+  ],
+  "url": "https://www.cnbctv18.com/market/earnings/earnings-central-hindalco-voltas-siemens-mphasis-gland-pharma-thermax-titan-airtel-20029201.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s410",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Voltas Q2 profit jumps 51%",
+  "summary": "Voltas reported a 51% year-on-year rise in Q2 profit, among the standout results in Friday's earnings wrap.",
+  "reason": "A sharp profit jump is a near-term positive for the air-conditioning and appliances maker.",
+  "cats": [
+   "appliance"
+  ],
+  "stocks": [
+   "VOLTAS"
+  ],
+  "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-hindalco-ind-bosch-siemens-aster-dm-coromandel-intl-gland-pharma-voltas-nuvama-wealth-3m-india-airtel-lic-titan-mahindra-ongc-company-results-06-november-2026/article71669522.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s411",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Gland Pharma Q2 profit surges 58%",
+  "summary": "Gland Pharma's Q2 profit rose about 58% year-on-year, one of the strongest results in the week's pharma earnings.",
+  "reason": "A strong profit rebound is a near-term positive for the injectables maker.",
+  "cats": [
+   "pharma",
+   "cdmo"
+  ],
+  "stocks": [
+   "GLAND"
+  ],
+  "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-hindalco-ind-bosch-siemens-aster-dm-coromandel-intl-gland-pharma-voltas-nuvama-wealth-3m-india-airtel-lic-titan-mahindra-ongc-company-results-06-november-2026/article71669522.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s412",
+  "date": "2026-11-06",
+  "bucket": "sn",
+  "title": "Thermax Q2 profit falls 17%",
+  "summary": "Thermax's Q2 profit declined about 17% year-on-year, among the notable misses in Friday's results.",
+  "reason": "A profit decline is a near-term negative for the capital-goods maker.",
+  "cats": [
+   "capgoods"
+  ],
+  "stocks": [
+   "THERMAX"
+  ],
+  "url": "https://www.cnbctv18.com/market/earnings/earnings-central-hindalco-voltas-siemens-mphasis-gland-pharma-thermax-titan-airtel-20029201.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s413",
+  "date": "2026-11-06",
+  "bucket": "sn",
+  "title": "Honasa Consumer Q2 profit declines",
+  "summary": "Honasa Consumer's Q2 profit fell year-on-year, joining Bosch and Coromandel among the week's profit declines.",
+  "reason": "A profit decline is a near-term negative for the personal-care company.",
+  "cats": [
+   "personal",
+   "t_newage"
+  ],
+  "stocks": [
+   "HONASA"
+  ],
+  "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-hindalco-ind-bosch-siemens-aster-dm-coromandel-intl-gland-pharma-voltas-nuvama-wealth-3m-india-airtel-lic-titan-mahindra-ongc-company-results-06-november-2026/article71669522.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s414",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "Mphasis Q2 beats; FY27 revenue growth seen at upper end of guidance",
+  "summary": "Mphasis shares jumped 8% after Q2 results beat expectations, with FY27 revenue growth tracking the upper end of guidance; Coforge also delivered a strong quarter among IT midcaps.",
+  "reason": "Beating expectations with guidance intact is a near-term positive for IT midcaps.",
+  "cats": [
+   "itmid",
+   "t_exportus"
+  ],
+  "stocks": [
+   "MPHASIS",
+   "COFORGE"
+  ],
+  "url": "https://www.cnbctv18.com/market/mphasis-share-price-jumps-q2-results-fy27-revenue-growth-seen-at-upper-end-of-guidance-20028664.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s415",
+  "date": "2026-11-06",
+  "bucket": "sp",
+  "title": "BLS Polymers lists 62.7% above issue price in busy listing week",
+  "summary": "BLS Polymers debuted 62.73% above its issue price as the primary market shifted focus to listings after the Jio Platforms frenzy, with 13 listings lined up.",
+  "reason": "A strong debut is a near-term positive for newly listed stocks and the IPO pipeline.",
+  "cats": [
+   "t_ipo",
+   "plastics"
+  ],
+  "stocks": [
+   "BLSPOLY"
+  ],
+  "url": "https://www.thepip.in/business/ipos/ipo-update-ipo-roundup-nov-bls-polymers-lists-62-06-nov-2026",
+  "src": "ThePip"
  }
 ]
