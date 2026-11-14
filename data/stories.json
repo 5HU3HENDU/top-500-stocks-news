@@ -1945,7 +1945,6 @@
   "reason": "Recent operating or market setback, so counted short-term negative.",
   "stocks": [
    "LT",
-   "CEMPRO",
    "WABAG"
   ],
   "url": "https://www.business-standard.com/markets/news/weak-execution-order-momentum-for-infrastructure-players-in-q2fy27-126100801128_1.html",
@@ -4370,8 +4369,7 @@
   "summary": "Earlier in February this year, the government raised the GST on cigarettes and tobacco products to a flat 40%.",
   "reason": "Structural or policy risk, so counted long-term negative.",
   "stocks": [
-   "ITC",
-   "GODFRYPHLP"
+   "ITC"
   ],
   "url": "https://www.thehindu.com/business/higher-tobacco-taxes-burn-cigarette-makers-net-revenue-volumes-profit-in-q1/article71297437.ece",
   "src": "thehindu.com",
@@ -5356,70 +5354,6 @@
   "id": "s340"
  },
  {
-  "cats": [
-   "oilup"
-  ],
-  "bucket": "lp",
-  "date": "2026-05-12",
-  "title": "India cuts royalty rates on crude oil, natural gas",
-  "summary": "Rate Cuts: Who Benefits Under the revised framework, the effective royalty rate on onshore crude production will decline from 16.66% to 10%, while offshore royalty will reduce from 9.09% to 8%.",
-  "reason": "Structural or policy development, so counted long-term positive.",
-  "stocks": [
-   "ONGC",
-   "OIL"
-  ],
-  "url": "https://www.livemint.com/news/india/hardeep-puri-announces-royalty-rationalisation-for-crude-oil-natural-gas-and-condensate-in-landmark-upstream-reform-11778554264307.html",
-  "src": "livemint.com",
-  "id": "s341"
- },
- {
-  "cats": [
-   "sfb"
-  ],
-  "bucket": "sn",
-  "date": "2026-05-11",
-  "title": "Gold loans drive SFB growth as microfinance stress persists",
-  "summary": "SFBs leaned on secured gold loans in FY26 to offset microfinance stress.",
-  "reason": "Reliance on one product while core segment stays weak.",
-  "stocks": [
-   "UJJIVANSFB",
-   "AUBANK"
-  ],
-  "url": "https://www.kotakneo.com/news/market-news/small-finance-banks-gold-loans-growth-microfinance-asset-quality-fy26/",
-  "src": "kotakneo.com",
-  "id": "s342"
- },
- {
-  "cats": [
-   "pwrgen"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-10",
-  "title": "Power demand surges towards 270 GW, but thermal project delays slow capacity build-up - Economy News",
-  "summary": "India added only 9.47 GW of thermal power capacity in FY26, missing its target of 12.86 GW due to supply chain and land acquisition delays.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [],
-  "url": "https://www.financialexpress.com/policy/economy/power-demand-surges-towards-270-gw-but-thermal-project-delays-slow-capacity-build-up/4237089/",
-  "src": "financialexpress.com",
-  "id": "s343"
- },
- {
-  "cats": [
-   "twowheel"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-06",
-  "title": "Bajaj Auto warns motorcycle growth could slow to 7\u20139% in FY27 as Pulsar, exports and EVs power growth",
-  "summary": "Bajaj Auto has cautioned that India\u2019s motorcycle industry could slow sharply in FY27, with growth moderating to around 7\u20139 per cent from over 20 per cent levels seen in recent quarters.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "BAJAJ-AUTO"
-  ],
-  "url": "https://www.thehindubusinessline.com/companies/bajaj-auto-warns-motorcycle-growth-could-slow-to-79-in-fy27-as-pulsar-exports-and-evs-power-growth/article70947985.ece",
-  "src": "thehindubusinessline.com",
-  "id": "s344"
- },
- {
   "id": "s360",
   "date": "2026-10-23",
   "bucket": "sn",
@@ -6377,5 +6311,237 @@
   ],
   "url": "https://www.thepip.in/business/ipos/ipo-update-ipo-roundup-nov-bls-polymers-lists-62-06-nov-2026",
   "src": "ThePip"
+ },
+ {
+  "id": "s416",
+  "date": "2026-11-13",
+  "bucket": "sp",
+  "title": "FPIs buy $10 billion of Indian stocks in 10 sessions as indices post third straight weekly gain",
+  "summary": "Foreign portfolio investors bought about $10 billion of Indian equities in 10 sessions, and benchmark indices climbed for a third straight week with the broader market outperforming.",
+  "reason": "Sustained foreign buying and a third weekly advance are a near-term positive for market sentiment.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.cnbctv18.com/market/fpis-buy-10-billion-worth-of-indian-stocks-in-10-sessions-as-market-rebounds-20033741.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s417",
+  "date": "2026-11-12",
+  "bucket": "sn",
+  "title": "Retail inflation hits 6.09% in October, breaches RBI's upper tolerance limit",
+  "summary": "CPI inflation rose to 6.09% in October 2026, crossing the RBI's 6% upper tolerance band for the first time in two years on food prices.",
+  "reason": "An inflation breach raises the risk of tighter-for-longer rates, a near-term negative for rate-sensitive stocks.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.livemint.com/economy/cpi-retail-inflation-october-india-rbi-target-food-price-inflation-11794467724485.html",
+  "src": "Mint"
+ },
+ {
+  "id": "s418",
+  "date": "2026-11-13",
+  "bucket": "sp",
+  "title": "Brent falls a second straight week to about $96 on supply-surplus signs",
+  "summary": "Front-month Brent fell 2.52% over the week to settle at $95.84, a second consecutive weekly decline as signs of a growing supply surplus built.",
+  "reason": "Cheaper crude cuts input costs for refiners and airlines, a near-term positive.",
+  "cats": [
+   "refin",
+   "airline",
+   "t_crude"
+  ],
+  "stocks": [
+   "IOC",
+   "BPCL",
+   "HINDPETRO",
+   "INDIGO"
+  ],
+  "url": "https://www.morningstar.com/news/dow-jones/202611139432/front-month-ice-brent-crude-fell-252-this-week-to-settle-at-9584-data-talk",
+  "src": "Morningstar"
+ },
+ {
+  "id": "s419",
+  "date": "2026-11-13",
+  "bucket": "sn",
+  "title": "Second weekly crude decline pressures upstream realisations",
+  "summary": "Brent's second straight weekly fall amid continued Iran uncertainty squeezes realisations for upstream producers.",
+  "reason": "Lower crude prices are a near-term negative for oil exploration companies.",
+  "cats": [
+   "oilup",
+   "t_crude"
+  ],
+  "stocks": [
+   "ONGC",
+   "OIL"
+  ],
+  "url": "https://www.dtnpf.com/agriculture/web/AG/news/world-policy/article/2026/11/13/oil-falls-2nd-week-row-iran",
+  "src": "DTN"
+ },
+ {
+  "id": "s420",
+  "date": "2026-11-13",
+  "bucket": "sn",
+  "title": "Gold falls about Rs 5,600 in a week, now 5% below its 5 November peak",
+  "summary": "Gold prices fell for a second week, dropping about Rs 5,643 per 10 grams in the week to stand roughly 5% below the 5 November peak.",
+  "reason": "Falling gold prices reduce collateral values for gold-loan financiers, a near-term negative.",
+  "cats": [
+   "t_gold",
+   "goldfin"
+  ],
+  "stocks": [
+   "MUTHOOTFIN"
+  ],
+  "url": "https://upstox.com/news/personal-finance/commodities/gold-rate-today-november-13-24k-22k-prices-fall-again-metal-now-5-2-below-november-5-peak/article-203451/",
+  "src": "Upstox"
+ },
+ {
+  "id": "s421",
+  "date": "2026-11-08",
+  "bucket": "sn",
+  "title": "Muhurat session ends flat, breaking a nine-year Diwali winning streak",
+  "summary": "The special Diwali Muhurat session on 8 November closed flat, ending a nine-year run of gains on the festive session.",
+  "reason": "A flat festive session after a record-setting week signals pausing momentum, a mild near-term negative for sentiment.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.ndtv.com/business-news/muhurat-trading-live-updates-bse-nse-stock-market-live-session-diwali-samvat-2083-12299176?pfrom=home-ndtv_topscroll",
+  "src": "NDTV Profit"
+ },
+ {
+  "id": "s422",
+  "date": "2026-11-13",
+  "bucket": "sn",
+  "title": "Tata Motors Passenger Vehicles and Grasim post Q2 losses",
+  "summary": "Tata Motors Passenger Vehicles and Grasim Industries reported losses for Q2 FY27 in Friday's results, while Religare Enterprises also posted a loss.",
+  "reason": "Swinging to a quarterly loss is a near-term negative for both companies.",
+  "cats": [
+   "pv",
+   "cement"
+  ],
+  "stocks": [
+   "TMPV",
+   "GRASIM"
+  ],
+  "url": "https://www.thehindubusinessline.com/companies/q2-results-today-live-updates-grasim-ind-eicher-motors-abb-india-tata-motors-pv-manipal-health-rail-vikas-nigam-godrej-ind-gillette-company-results-13-november-2026/article71696618.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s423",
+  "date": "2026-11-13",
+  "bucket": "sp",
+  "title": "Eicher Motors Q2 profit rises 15%",
+  "summary": "Eicher Motors reported a 15% year-on-year rise in Q2 profit in Friday's earnings.",
+  "reason": "Double-digit profit growth is a near-term positive for the Royal Enfield maker.",
+  "cats": [
+   "twowheel",
+   "cv"
+  ],
+  "stocks": [
+   "EICHERMOT"
+  ],
+  "url": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-13-grasim-industries-eicher-motors-abb-india-natco-pharma-among-companies-to-announce-earnings-today-12320989",
+  "src": "NDTV Profit"
+ },
+ {
+  "id": "s424",
+  "date": "2026-11-13",
+  "bucket": "sp",
+  "title": "Senco Gold Q2 profit jumps 78%",
+  "summary": "Senco Gold's Q2 profit rose 78% year-on-year, among the strongest results in Friday's wrap despite the late-week fall in gold prices.",
+  "reason": "A sharp profit jump is a near-term positive for the jeweller.",
+  "cats": [
+   "jewel",
+   "t_gold"
+  ],
+  "stocks": [
+   "SENCO"
+  ],
+  "url": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-13-grasim-industries-eicher-motors-abb-india-natco-pharma-among-companies-to-announce-earnings-today-12320989",
+  "src": "NDTV Profit"
+ },
+ {
+  "id": "s425",
+  "date": "2026-11-12",
+  "bucket": "sn",
+  "title": "Vodafone Idea Q2 loss widens",
+  "summary": "Vodafone Idea's net loss widened in Q2 FY27, even as peer telecom operators held margins.",
+  "reason": "A widening loss is a near-term negative for the debt-laden telecom operator.",
+  "cats": [
+   "telco"
+  ],
+  "stocks": [
+   "IDEA"
+  ],
+  "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-hal-vodafone-idea-hithachi-alkem-lab-nmdc-bharat-dynamics-page-industries-irctc-manappuram-ola-electric-tata-power-hindustan-copper-results-12-november-2026/article71689241.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s426",
+  "date": "2026-11-12",
+  "bucket": "sp",
+  "title": "HAL logs Q2 profit gain",
+  "summary": "Hindustan Aeronautics posted a higher Q2 profit in Thursday's results, while Bharat Dynamics' profit declined.",
+  "reason": "Profit growth is a near-term positive for the defence aircraft maker.",
+  "cats": [
+   "defence",
+   "aero",
+   "t_psu"
+  ],
+  "stocks": [
+   "HAL"
+  ],
+  "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-hal-vodafone-idea-hithachi-alkem-lab-nmdc-bharat-dynamics-page-industries-irctc-manappuram-ola-electric-tata-power-hindustan-copper-results-12-november-2026/article71689241.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s427",
+  "date": "2026-11-12",
+  "bucket": "sp",
+  "title": "Ola Electric narrows Q2 loss",
+  "summary": "Ola Electric's Q2 loss narrowed year-on-year, a step toward breakeven for the electric two-wheeler maker.",
+  "reason": "A narrowing loss is a near-term positive for the EV maker's path to profitability.",
+  "cats": [
+   "twowheel",
+   "t_ev"
+  ],
+  "stocks": [
+   "OLAELEC"
+  ],
+  "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-hal-vodafone-idea-hithachi-alkem-lab-nmdc-bharat-dynamics-page-industries-irctc-manappuram-ola-electric-tata-power-hindustan-copper-results-12-november-2026/article71689241.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s428",
+  "date": "2026-11-13",
+  "bucket": "sp",
+  "title": "Paytm gets RBI initial approval for digital wallet",
+  "summary": "Paytm received the RBI's initial approval for a digital wallet licence, per Groww Digest's weekly wrap, alongside data showing exports grew 17%.",
+  "reason": "Regulatory progress on a core product is a near-term positive for the payments company.",
+  "cats": [
+   "pay",
+   "t_newage"
+  ],
+  "stocks": [
+   "PAYTM"
+  ],
+  "url": "https://digest.groww.in/p/exports-grow-17-paytm-gets-rbi-initial",
+  "src": "Groww Digest"
+ },
+ {
+  "id": "s429",
+  "date": "2026-11-12",
+  "bucket": "sp",
+  "title": "Sensex, Nifty at highest since February as easing crude lifts equities",
+  "summary": "Benchmark indices reached their highest levels since February, about 1,000 points from the record peak, supported by easing crude prices and strong earnings.",
+  "reason": "Approaching record highs on broad participation is a near-term positive for sentiment.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-at-highest-since-february-as-indian-equities-thrive-amid-easing-crude-prices/articleshow/135751672.cms",
+  "src": "The Economic Times"
  }
 ]
