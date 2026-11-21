@@ -1655,8 +1655,7 @@
   "reason": "Rating-agency multi-year earnings outlook.",
   "stocks": [
    "UJJIVANSFB",
-   "AUBANK",
-   "JSFB"
+   "AUBANK"
   ],
   "url": "https://www.crisilratings.com/en/home/newsroom/press-releases/2026/10/easing-credit-cost-growth-to-lift-roa-of-small-finance-banks-to-1-3-1-5-percent.html",
   "src": "crisilratings.com",
@@ -1761,7 +1760,6 @@
   "reason": "Slow-clearing legacy stress in the sector.",
   "stocks": [
    "UJJIVANSFB",
-   "JSFB",
    "BANDHANBNK"
   ],
   "url": "https://www.livemint.com/news/microfinance-shows-early-recovery-signs-but-legacy-bad-loans-weigh-on-sector-11791450920201.html",
@@ -2267,8 +2265,7 @@
   "reason": "Quarterly business update.",
   "stocks": [
    "UJJIVANSFB",
-   "AUBANK",
-   "JSFB"
+   "AUBANK"
   ],
   "url": "https://www.sahi.com/news/suryoday-small-finance-gross-advances-rise-34-60-yoy-gnpa-improves-to-2-90",
   "src": "sahi.com",
@@ -3458,8 +3455,7 @@
   "reason": "Forecast of a sustained asset-quality trend.",
   "stocks": [
    "UJJIVANSFB",
-   "AUBANK",
-   "JSFB"
+   "AUBANK"
   ],
   "url": "https://www.thehindubusinessline.com/money-and-banking/small-finance-banks-asset-quality-set-for-recovery-as-gnpas-seen-falling-to-28-by-march-2027-crisil/article71418814.ece",
   "src": "thehindubusinessline.com",
@@ -3952,8 +3948,7 @@
   "summary": "Exide and Amara Raja have got their gigafactories running. The raw materials that feed them are still almost entirely Chinese, and a fresh round of export controls is due in November.",
   "reason": "Structural or policy risk, so counted long-term negative.",
   "stocks": [
-   "EXIDEIND",
-   "ARE&M"
+   "EXIDEIND"
   ],
   "url": "https://www.ndtvprofit.com/business/exide-amara-raja-still-depend-on-china-for-lithium-cell-materials-as-deadline-nears-11916097",
   "src": "ndtvprofit.com",
@@ -5192,8 +5187,7 @@
   "summary": "Inflation Bites QSR Chains: India's Fast-Food Giants Slow Store Rollouts and Pivot to Value in FY27 India\u2019s fast-food chains are re-calibrating growth strategies for FY27 as fuel, logistics and commodity prices grow, squeezing household budgets and weakening d\u2026",
   "reason": "Structural or policy risk, so counted long-term negative.",
   "stocks": [
-   "JUBLFOOD",
-   "RBA"
+   "JUBLFOOD"
   ],
   "url": "https://www.financialexpress.com/business/news/qsr-chains-turn-cautious-as-inflation-fears-cloud-fy27-outlook/4250899/",
   "src": "financialexpress.com",
@@ -5258,100 +5252,6 @@
   "url": "https://www.moneycontrol.com/news/consumer/jewellery/gold-jewellery-retail-sales-volume-to-plunge-13-15-in-fy27-hit-decade-low-crisil-13928164.html",
   "src": "moneycontrol.com",
   "id": "s334"
- },
- {
-  "cats": [
-   "ecom"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-19",
-  "title": "Eternal, Swiggy face growth pressure as fuel costs rise, ad revenue weakens: Elara Capital",
-  "summary": "Karan Taurani, Executive VP at Elara Capital said a 10% fuel price rise could cut Eternal and Swiggy's absolute EBITDA by 5\u201310%, but warns ad revenue pressure from smaller restaurants and D2C brands is a larger margin risk.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "ETERNAL",
-   "SWIGGY"
-  ],
-  "url": "https://www.cnbctv18.com/market/stocks/eternal-swiggy-growth-pressure-fuel-costs-ad-revenue-headwinds-mount-elara-capital-blinkit-lpg-19909069.htm",
-  "src": "cnbctv18.com",
-  "id": "s335"
- },
- {
-  "cats": [
-   "appliance"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-15",
-  "title": "Curbs on compressor imports could hit supply of ACs & refrigerators, warn companies",
-  "summary": "The concern follows a May 8 order by the Department for Promotion of Industry and Internal Trade (DPIIT), which links compressor imports in the current fiscal to a percentage of volumes imported in FY25.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "LGEINDIA",
-   "BLUESTARCO"
-  ],
-  "url": "https://m.economictimes.com/industry/cons-products/electronics/curbs-on-compressor-imports-could-hit-supply-of-acs-refrigerators-warn-companies/amp_articleshow/131127115.cms",
-  "src": "m.economictimes.com",
-  "id": "s336"
- },
- {
-  "cats": [
-   "t_adani"
-  ],
-  "bucket": "lp",
-  "date": "2026-05-14",
-  "title": "US Justice Dept close to dropping charges against India's Gautam Adani, sources say",
-  "summary": "Adani resolved related SEC civil fraud lawsuit with $15 million settlement, no admission of wrongdoing - Adani Group to pay $275 million to US Treasury over separate Iranian gas shipping probe - Prosecutors allege Adani paid $265 million in \u200bbribes for solar p\u2026",
-  "reason": "Structural or policy development, so counted long-term positive.",
-  "stocks": [],
-  "url": "https://www.reuters.com/legal/government/us-authorities-move-resolve-fraud-cases-against-indias-adani-bloomberg-news-2026-05-14/",
-  "src": "reuters.com",
-  "id": "s337"
- },
- {
-  "cats": [
-   "lube"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-13",
-  "title": "West Asia conflict hit lubricants industry starts price hike, more increases shortly",
-  "summary": "The lubricant industry has seen its cost of production rising by 50% since the outbreak of the West Asia conflict, making it imperative to pass on part of the extra burden on consumers.",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [],
-  "url": "https://www.thehindu.com/business/Industry/west-asia-conflict-hit-lubricants-industry-starts-price-hike-more-increases-shortly/article70975388.ece",
-  "src": "thehindu.com",
-  "id": "s338"
- },
- {
-  "cats": [
-   "jewel"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-13",
-  "title": "Jewellers adapt as government measures make gold costlier",
-  "summary": "India raised the effective import tax on gold and silver to 15%, reversing earlier duty cuts to curb imports and protect forex reserves.(AFP) Summary Retailers promote exchange and monetisation schemes as higher tariffs threaten discretionary demand and revive\u2026",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [
-   "KALYANKJIL",
-   "TITAN",
-   "SENCO"
-  ],
-  "url": "https://www.livemint.com/industry/gold-import-duty-hike-impact-jewellery-demand-11778673354860.html",
-  "src": "livemint.com",
-  "id": "s339"
- },
- {
-  "cats": [
-   "ems"
-  ],
-  "bucket": "ln",
-  "date": "2026-05-13",
-  "title": "Dixon Technologies: Vivo JV delay, PLI expiry cloud near-term outlook",
-  "summary": "Dixon Technologies\u2019 March quarter (Q4FY26) results have raised concerns around the company\u2019s near-term growth outlook, with brokerages turning cautious due to weak smartphone demand, elevated component costs, and uncertainty around the continuation of PLI-link\u2026",
-  "reason": "Structural or policy risk, so counted long-term negative.",
-  "stocks": [],
-  "url": "https://www.business-standard.com/markets/news/dixon-tech-share-price-q4-results-outlook-brokerages-cut-earnings-target-price-vivo-jv-pli-benefit-126051300572_1.html",
-  "src": "business-standard.com",
-  "id": "s340"
  },
  {
   "id": "s360",
@@ -6543,5 +6443,134 @@
   "stocks": [],
   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-at-highest-since-february-as-indian-equities-thrive-amid-easing-crude-prices/articleshow/135751672.cms",
   "src": "The Economic Times"
+ },
+ {
+  "id": "s430",
+  "date": "2026-11-20",
+  "bucket": "sp",
+  "title": "Nifty hits 9-month high in biggest 4-week rally in 6 years",
+  "summary": "The Nifty ended at 25,800 with the Sensex up 897 points on Friday, a fourth straight weekly gain; SBI, Maruti and Max Healthcare led the move.",
+  "reason": "A sustained broad rally on record foreign buying is a near-term positive for market sentiment.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.cnbctv18.com/market/nifty-posts-biggest-4-week-rally-in-6-years-sbi-maruti-max-healthcare-lead-gains-20038660.htm",
+  "src": "CNBC-TV18"
+ },
+ {
+  "id": "s431",
+  "date": "2026-11-20",
+  "bucket": "sp",
+  "title": "FPIs invest a record Rs 1.22 lakh crore in Indian equities in November",
+  "summary": "Foreign portfolio investors made their highest-ever monthly purchase of Indian stocks in November, with financials and telecom leading the inflows.",
+  "reason": "Record foreign inflows support valuations and liquidity, especially for the largest financial and telecom names.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://www.thehindubusinessline.com/markets/fpis-make-strong-comeback-invest-record-122-lakh-cr-in-indian-equities-in-nov/article71724929.ece",
+  "src": "The Hindu BusinessLine"
+ },
+ {
+  "id": "s432",
+  "date": "2026-11-20",
+  "bucket": "sp",
+  "title": "Rupee wipes out FY27 losses in strongest monthly rally in 20 months",
+  "summary": "The rupee defied a strong US dollar and erased its FY27 losses as record FPI buying drove its best monthly gain in 20 months.",
+  "reason": "A stronger rupee eases imported inflation and signals returning foreign confidence in Indian assets.",
+  "cats": [
+   "t_rate"
+  ],
+  "stocks": [],
+  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-defies-us-dollar-wipes-out-fy27-losses-amid-record-fpi-buys/articleshow/136037641.cms",
+  "src": "The Economic Times"
+ },
+ {
+  "id": "s433",
+  "date": "2026-11-20",
+  "bucket": "sp",
+  "title": "Brent falls a third straight week, down 3.41% to $92.57",
+  "summary": "Front-month ICE Brent settled at $92.57 after a 3.41% weekly fall, its third consecutive weekly decline.",
+  "reason": "Cheaper crude improves marketing margins and input costs for refiners, airlines and other oil-linked consumers.",
+  "cats": [
+   "refin",
+   "airline",
+   "t_crude"
+  ],
+  "stocks": [
+   "IOC",
+   "BPCL",
+   "HINDPETRO",
+   "INDIGO"
+  ],
+  "url": "https://www.morningstar.com/news/dow-jones/202611207288/front-month-ice-brent-crude-fell-341-this-week-to-settle-at-9257-data-talk",
+  "src": "Morningstar"
+ },
+ {
+  "id": "s434",
+  "date": "2026-11-20",
+  "bucket": "sn",
+  "title": "Third weekly crude decline deepens pressure on upstream realisations",
+  "summary": "Brent's fall to $92.57 extends a three-week slide that lowers realisations for oil and gas producers.",
+  "reason": "Sustained crude weakness compresses upstream earnings per barrel.",
+  "cats": [
+   "oilup",
+   "t_crude"
+  ],
+  "stocks": [
+   "ONGC",
+   "OIL"
+  ],
+  "url": "https://www.al-monitor.com/originals/2026/11/oil-heads-third-weekly-loss-iran-tests-us-blockade-crude-transfer",
+  "src": "Al-Monitor"
+ },
+ {
+  "id": "s435",
+  "date": "2026-11-20",
+  "bucket": "sn",
+  "title": "Gold heads for steepest weekly fall since March; hits 14-month low",
+  "summary": "Gold fell to a 14-month low and silver also slid, dragging gold and silver ETFs down as much as 7.5%, as a firmer dollar weighed on bullion.",
+  "reason": "Falling gold prices mean inventory mark-downs for jewellers and lower collateral values for gold-loan lenders.",
+  "cats": [
+   "t_gold",
+   "goldfin",
+   "jewel"
+  ],
+  "stocks": [
+   "MUTHOOTFIN"
+  ],
+  "url": "https://www.moneycontrol.com/news/business/markets/gold-silver-etfs-crash-up-to-7-5-as-bullion-prices-plunge-gold-heads-for-biggest-weekly-fall-since-march-14085418.html",
+  "src": "Moneycontrol"
+ },
+ {
+  "id": "s436",
+  "date": "2026-11-16",
+  "bucket": "sp",
+  "title": "Busy IPO week: Mahanadi Coalfields among three issues set to raise over Rs 10,000 crore",
+  "summary": "Mahanadi Coalfields, Crystal Crop Protection and Watrana Rentals headline a primary-market week expected to raise more than Rs 10,000 crore.",
+  "reason": "A heavy IPO calendar signals strong primary-market appetite and adds new listings to track.",
+  "cats": [
+   "t_ipo"
+  ],
+  "stocks": [],
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-mahanadi-coalfields-among-3-companies-to-raise-over-rs-10000-cr-in-busy-week-for-primary-market/articleshow/135848817.cms",
+  "src": "The Economic Times"
+ },
+ {
+  "id": "s437",
+  "date": "2026-11-20",
+  "bucket": "sn",
+  "title": "Global AI rout deepens even as Indian shares rise",
+  "summary": "Global AI-linked stocks extended their selloff through the week, a contrasting backdrop to India's record-inflow rally.",
+  "reason": "Souring global sentiment on AI spending is a near-term overhang for Indian IT services and AI-theme names.",
+  "cats": [
+   "itlarge",
+   "itmid",
+   "t_ai"
+  ],
+  "stocks": [],
+  "url": "https://www.brecorder.com/news/40449984",
+  "src": "Business Recorder"
  }
 ]
